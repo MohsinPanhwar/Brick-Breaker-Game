@@ -1,6 +1,6 @@
 # BrickBreaker
 
-Mohammad Mohsin Panhwar :- 22837 (SOLO)
+Mohammad Mohsin Panhwar
 
 This is a Java Brick Breaker project. Use the `src` folder to open in your IDE (IntelliJ/Eclipse).
 
