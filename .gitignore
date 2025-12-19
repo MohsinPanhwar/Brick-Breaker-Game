@@ -1,0 +1,28 @@
+# Java build files
+*.class
+bin/
+target/
+build/
+
+# IntelliJ / IDEA
+*.iml
+.idea/
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# Save files
+SaveFile.txt
+
+# Images or large files (adjust as needed)
+# PNG/
